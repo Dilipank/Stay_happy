@@ -1,0 +1,5 @@
+From terminal run these..
+
+pip install flask
+pip install flask-sqlalchemy
+pip install flask-migrate
